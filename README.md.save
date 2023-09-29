@@ -1,0 +1,11 @@
+Welcome to QR-OCR files !
+
+This zip contains python files , txt files and sh files. 
+
+You need to import your image in the input folder given 
+
+First, run requirements.sh file to setup the environment. 
+
+Secondly, import the image which you want to run the program over it. 
+
+Third, once imported into the folder

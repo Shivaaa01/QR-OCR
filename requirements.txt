@@ -1,0 +1,17 @@
+pyzbar
+opencv-python==4.8.0.76
+matplotlib==3.7.1
+numpy==1.23.5
+unidecode
+mplcursors
+tf2onnx # only if tensorflow is there 
+tensorflow
+tqdm
+defusedxml
+weasyprint
+pypdfium2
+pyclipper
+shapely
+rapidfuzz
+langdetect
+huggingface_hub
